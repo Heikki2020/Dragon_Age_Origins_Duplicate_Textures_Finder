@@ -1,2 +1,5 @@
-# Dragon_Age_Origins_Duplicate_Textures_Finder
-Dragon Age: Origins - Duplicate Textures Finder
+# Dragon Age: Origins - Duplicate Textures Finder
+
+&copy; Henry & Lukas 2025-2026
+
+<https://www.nexusmods.com/dragonage/mods/6823>
