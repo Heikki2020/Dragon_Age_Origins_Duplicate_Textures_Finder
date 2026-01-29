@@ -10,7 +10,7 @@ It's been bothering me ever since I installed two high resolution texture packs 
 
 Check out the screenshots first, as they will give you a quick overview of how to use the app.
 
-- When it starts, the app will automatically scan the **"C:\Users\YOUR_USERNAME\Documents\BioWare\Dragon Age\packages\core\override"** folder.
+- When it starts, the app will automatically scan **C:\Users\YOUR_USERNAME\Documents\BioWare\Dragon Age\packages\core\override**.
 - It may take some seconds to finish the scan, if the folder is on an HDD or there are a lot of textures.
 - And then, the app will list duplicate textures in the left column and show a short summary in the status bar.
 - You can also click the **Browse** button to scan another folder.
